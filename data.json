@@ -1,25 +1,5 @@
 [
     {
-        "date":"2023-08-22",
-        "date_week":"2023年8月22日 火曜日",
-        "hospital":[
-            {
-                "week":"火曜日",
-                "name":"県立今治病院",
-                "address":"今治市石井町４－５－５",
-                "tel":"0898-32-7111",
-                "night_tel":"0898-32-7111",
-                "type":"指定なし",
-                "time_1st":"08:30～17:30",
-                "time_2nd":"17:30～翌日08:30",
-                "time":"08:30～17:30 \/ 17:30～翌日08:30",
-                "lat":34.0853711,
-                "lon":132.9869297,
-                "navi":"https:\/\/www.google.com\/maps\/dir\/?api=1&destination=34.0853711,132.9869297"
-            }
-        ]
-    },
-    {
         "date":"2023-08-23",
         "date_week":"2023年8月23日 水曜日",
         "hospital":[
@@ -860,6 +840,68 @@
                 "lat":34.0692414,
                 "lon":132.9947473,
                 "navi":"https:\/\/www.google.com\/maps\/dir\/?api=1&destination=34.0692414,132.9947473"
+            }
+        ]
+    },
+    {
+        "date":"2023-09-23",
+        "date_week":"2023年9月23日 祝日",
+        "hospital":[
+            {
+                "week":"祝日",
+                "name":"放射線第一病院",
+                "address":"今治市北日吉町１丁目１０番５０号",
+                "tel":"0898-23-3358",
+                "night_tel":"0898-23-3358",
+                "type":"指定なし",
+                "time_1st":"08:30～17:30",
+                "time_2nd":null,
+                "time":"08:30～17:30",
+                "lat":34.0650153,
+                "lon":132.9905423,
+                "navi":"https:\/\/www.google.com\/maps\/dir\/?api=1&destination=34.0650153,132.9905423"
+            },
+            {
+                "week":"祝日",
+                "name":"今治市医師会市民病院",
+                "address":"今治市別宮町７－１－４０",
+                "tel":"0898-22-7611",
+                "night_tel":null,
+                "type":"指定なし",
+                "time_1st":"17:30～翌日08:30",
+                "time_2nd":null,
+                "time":"17:30～翌日08:30",
+                "lat":34.0736823,
+                "lon":132.9916019,
+                "navi":"https:\/\/www.google.com\/maps\/dir\/?api=1&destination=34.0736823,132.9916019"
+            },
+            {
+                "week":"祝日",
+                "name":"まつうらバンビクリニック",
+                "address":"今治市北宝来町３－３－３４",
+                "tel":"0898-22-0573",
+                "night_tel":"0898-22-0573",
+                "type":"小児科",
+                "time_1st":"09:00～17:00",
+                "time_2nd":null,
+                "time":"09:00～17:00",
+                "lat":34.0669145,
+                "lon":132.9922638,
+                "navi":"https:\/\/www.google.com\/maps\/dir\/?api=1&destination=34.0669145,132.9922638"
+            },
+            {
+                "week":"祝日",
+                "name":"片山医院",
+                "address":"今治市吉海町幸新田７１",
+                "tel":"0897-84-2620",
+                "night_tel":null,
+                "type":"島しょ部",
+                "time_1st":"09:00～17:00",
+                "time_2nd":null,
+                "time":"09:00～17:00",
+                "lat":34.1468571,
+                "lon":133.0423387,
+                "navi":"https:\/\/www.google.com\/maps\/dir\/?api=1&destination=34.1468571,133.0423387"
             }
         ]
     }

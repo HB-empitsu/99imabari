@@ -1,25 +1,5 @@
 [
     {
-        "date":"2023-08-26",
-        "date_week":"2023年8月26日 土曜日",
-        "hospital":[
-            {
-                "week":"土曜日",
-                "name":"今治市医師会市民病院",
-                "address":"今治市別宮町７－１－４０",
-                "tel":"0898-22-7611",
-                "night_tel":null,
-                "type":"指定なし",
-                "time_1st":"17:30～翌日08:30",
-                "time_2nd":null,
-                "time":"17:30～翌日08:30",
-                "lat":34.0736823,
-                "lon":132.9916019,
-                "navi":"https:\/\/www.google.com\/maps\/dir\/?api=1&destination=34.0736823,132.9916019"
-            }
-        ]
-    },
-    {
         "date":"2023-08-27",
         "date_week":"2023年8月27日 日曜日",
         "hospital":[
@@ -36,48 +16,6 @@
                 "lat":34.0736823,
                 "lon":132.9916019,
                 "navi":"https:\/\/www.google.com\/maps\/dir\/?api=1&destination=34.0736823,132.9916019"
-            },
-            {
-                "week":"日曜日",
-                "name":"今治市医師会市民病院",
-                "address":"今治市別宮町７－１－４０",
-                "tel":"0898-22-7611",
-                "night_tel":null,
-                "type":"内科",
-                "time_1st":"09:00～17:30",
-                "time_2nd":null,
-                "time":"09:00～17:30",
-                "lat":34.0736823,
-                "lon":132.9916019,
-                "navi":"https:\/\/www.google.com\/maps\/dir\/?api=1&destination=34.0736823,132.9916019"
-            },
-            {
-                "week":"日曜日",
-                "name":"今治市医師会市民病院",
-                "address":"今治市別宮町７－１－４０",
-                "tel":"0898-22-7611",
-                "night_tel":null,
-                "type":"小児科",
-                "time_1st":"09:00～17:00",
-                "time_2nd":null,
-                "time":"09:00～17:00",
-                "lat":34.0736823,
-                "lon":132.9916019,
-                "navi":"https:\/\/www.google.com\/maps\/dir\/?api=1&destination=34.0736823,132.9916019"
-            },
-            {
-                "week":"日曜日",
-                "name":"大三島中央病院",
-                "address":"今治市大三島町宮浦５３１８－１",
-                "tel":"0897-82-1111",
-                "night_tel":"0897-82-1111",
-                "type":"島しょ部",
-                "time_1st":"09:00～17:00",
-                "time_2nd":null,
-                "time":"09:00～17:00",
-                "lat":34.2460837,
-                "lon":132.9974115,
-                "navi":"https:\/\/www.google.com\/maps\/dir\/?api=1&destination=34.2460837,132.9974115"
             }
         ]
     },
@@ -930,6 +868,40 @@
                 "lat":34.0442409,
                 "lon":133.0203312,
                 "navi":"https:\/\/www.google.com\/maps\/dir\/?api=1&destination=34.0442409,133.0203312"
+            }
+        ]
+    },
+    {
+        "date":"2023-09-27",
+        "date_week":"2023年9月27日 水曜日",
+        "hospital":[
+            {
+                "week":"水曜日",
+                "name":"県立今治病院",
+                "address":"今治市石井町４－５－５",
+                "tel":"0898-32-7111",
+                "night_tel":"0898-32-7111",
+                "type":"指定なし",
+                "time_1st":"08:30～17:15",
+                "time_2nd":"22:30～翌日08:30",
+                "time":"08:30～17:15 \/ 22:30～翌日08:30",
+                "lat":34.0853711,
+                "lon":132.9869297,
+                "navi":"https:\/\/www.google.com\/maps\/dir\/?api=1&destination=34.0853711,132.9869297"
+            },
+            {
+                "week":"水曜日",
+                "name":"今治セントラルクリニック",
+                "address":"今治市松本町２丁目６番地６",
+                "tel":"0898-22-5251",
+                "night_tel":"0898-34-0088",
+                "type":"指定なし",
+                "time_1st":"17:15～22:30",
+                "time_2nd":null,
+                "time":"17:15～22:30",
+                "lat":34.0629614,
+                "lon":133.0028127,
+                "navi":"https:\/\/www.google.com\/maps\/dir\/?api=1&destination=34.0629614,133.0028127"
             }
         ]
     }

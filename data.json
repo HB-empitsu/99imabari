@@ -1,25 +1,5 @@
 [
     {
-        "date":"2023-08-29",
-        "date_week":"2023年8月29日 火曜日",
-        "hospital":[
-            {
-                "week":"火曜日",
-                "name":"済生会今治病院",
-                "address":"今治市喜田村７丁目１番６号",
-                "tel":"0898-47-2500",
-                "night_tel":"0898-47-2500",
-                "type":"指定なし",
-                "time_1st":"08:30～17:30",
-                "time_2nd":"17:30～翌日08:30",
-                "time":"08:30～17:30 \/ 17:30～翌日08:30",
-                "lat":34.0442409,
-                "lon":133.0203312,
-                "navi":"https:\/\/www.google.com\/maps\/dir\/?api=1&destination=34.0442409,133.0203312"
-            }
-        ]
-    },
-    {
         "date":"2023-08-30",
         "date_week":"2023年8月30日 水曜日",
         "hospital":[
@@ -36,20 +16,6 @@
                 "lat":34.0853711,
                 "lon":132.9869297,
                 "navi":"https:\/\/www.google.com\/maps\/dir\/?api=1&destination=34.0853711,132.9869297"
-            },
-            {
-                "week":"水曜日",
-                "name":"今治セントラルクリニック",
-                "address":"今治市松本町２丁目６番地６",
-                "tel":"0898-22-5251",
-                "night_tel":"0898-34-0088",
-                "type":"指定なし",
-                "time_1st":"17:15～22:30",
-                "time_2nd":null,
-                "time":"17:15～22:30",
-                "lat":34.0629614,
-                "lon":133.0028127,
-                "navi":"https:\/\/www.google.com\/maps\/dir\/?api=1&destination=34.0629614,133.0028127"
             }
         ]
     },
@@ -902,6 +868,40 @@
                 "lat":34.0663904,
                 "lon":132.9895736,
                 "navi":"https:\/\/www.google.com\/maps\/dir\/?api=1&destination=34.0663904,132.9895736"
+            }
+        ]
+    },
+    {
+        "date":"2023-09-30",
+        "date_week":"2023年9月30日 土曜日",
+        "hospital":[
+            {
+                "week":"土曜日",
+                "name":"木原病院",
+                "address":"今治市別宮町３－７－８",
+                "tel":"0898-23-0634",
+                "night_tel":null,
+                "type":"指定なし",
+                "time_1st":"08:30～17:30",
+                "time_2nd":null,
+                "time":"08:30～17:30",
+                "lat":34.0692414,
+                "lon":132.9947473,
+                "navi":"https:\/\/www.google.com\/maps\/dir\/?api=1&destination=34.0692414,132.9947473"
+            },
+            {
+                "week":"土曜日",
+                "name":"今治市医師会市民病院",
+                "address":"今治市別宮町７－１－４０",
+                "tel":"0898-22-7611",
+                "night_tel":null,
+                "type":"指定なし",
+                "time_1st":"17:30～翌日08:30",
+                "time_2nd":null,
+                "time":"17:30～翌日08:30",
+                "lat":34.0736823,
+                "lon":132.9916019,
+                "navi":"https:\/\/www.google.com\/maps\/dir\/?api=1&destination=34.0736823,132.9916019"
             }
         ]
     }

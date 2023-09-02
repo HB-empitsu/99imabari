@@ -1,42 +1,8 @@
 [
     {
-        "date":"2023-09-01",
-        "date_week":"2023年9月1日 金曜日",
-        "hospital":[
-            {
-                "week":"金曜日",
-                "name":"木原病院",
-                "address":"今治市別宮町３－７－８",
-                "tel":"0898-23-0634",
-                "night_tel":null,
-                "type":"指定なし",
-                "time_1st":"08:30～17:30",
-                "time_2nd":"17:30～翌日08:30",
-                "time":"08:30～17:30 \/ 17:30～翌日08:30",
-                "lat":34.0692414,
-                "lon":132.9947473,
-                "navi":"https:\/\/www.google.com\/maps\/dir\/?api=1&destination=34.0692414,132.9947473"
-            }
-        ]
-    },
-    {
         "date":"2023-09-02",
         "date_week":"2023年9月2日 土曜日",
         "hospital":[
-            {
-                "week":"土曜日",
-                "name":"白石病院",
-                "address":"今治市松本町１－５－９",
-                "tel":"0898-32-4135",
-                "night_tel":null,
-                "type":"指定なし",
-                "time_1st":"08:30～17:30",
-                "time_2nd":null,
-                "time":"08:30～17:30",
-                "lat":34.0656286,
-                "lon":133.0006026,
-                "navi":"https:\/\/www.google.com\/maps\/dir\/?api=1&destination=34.0656286,133.0006026"
-            },
             {
                 "week":"土曜日",
                 "name":"今治市医師会市民病院",
